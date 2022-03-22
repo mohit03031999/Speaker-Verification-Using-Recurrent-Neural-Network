@@ -1,0 +1,360 @@
+Python 3.8.6 (tags/v3.8.6:db45529, Sep 23 2020, 15:52:53) [MSC v.1927 64 bit (AMD64)] on win32
+Type "help", "copyright", "credits" or "license()" for more information.
+>>> 
+============== RESTART: C:\Users\Jacob\Desktop\Project\driver2.py ==============
+--------------------------------------------------
+Epoch 1/15
+8/8 - 40s - loss: 3.3732 - accuracy: 0.2679 - 40s/epoch - 5s/step
+Epoch 2/15
+8/8 - 32s - loss: 2.9973 - accuracy: 0.3229 - 32s/epoch - 4s/step
+Epoch 3/15
+8/8 - 30s - loss: 2.6569 - accuracy: 0.4586 - 30s/epoch - 4s/step
+Epoch 4/15
+8/8 - 32s - loss: 2.3189 - accuracy: 0.5539 - 32s/epoch - 4s/step
+Epoch 5/15
+8/8 - 33s - loss: 2.0693 - accuracy: 0.6260 - 33s/epoch - 4s/step
+Epoch 6/15
+8/8 - 33s - loss: 1.8104 - accuracy: 0.7267 - 33s/epoch - 4s/step
+Epoch 7/15
+8/8 - 35s - loss: 1.7645 - accuracy: 0.6607 - 35s/epoch - 4s/step
+Epoch 8/15
+8/8 - 31s - loss: 1.5099 - accuracy: 0.7790 - 31s/epoch - 4s/step
+Epoch 9/15
+8/8 - 32s - loss: 1.3865 - accuracy: 0.7822 - 32s/epoch - 4s/step
+Epoch 10/15
+8/8 - 34s - loss: 1.3597 - accuracy: 0.7391 - 34s/epoch - 4s/step
+Epoch 11/15
+8/8 - 32s - loss: 1.2455 - accuracy: 0.7658 - 32s/epoch - 4s/step
+Epoch 12/15
+8/8 - 33s - loss: 1.1056 - accuracy: 0.8303 - 33s/epoch - 4s/step
+Epoch 13/15
+8/8 - 30s - loss: 1.0667 - accuracy: 0.8395 - 30s/epoch - 4s/step
+Epoch 14/15
+8/8 - 30s - loss: 0.9480 - accuracy: 0.8658 - 30s/epoch - 4s/step
+Epoch 15/15
+8/8 - 31s - loss: 0.9492 - accuracy: 0.8450 - 31s/epoch - 4s/step
+2/2 - 4s - loss: 1.2402 - accuracy: 0.6408 - 4s/epoch - 2s/step
+labels:    [0, 0, 1, 1, 2, 2, 3, 3]
+predicted: [0, 0, 2, 1, 2, 2, 2, 2]
+Epoch 1/15
+8/8 - 44s - loss: 3.4501 - accuracy: 0.2334 - 44s/epoch - 5s/step
+Epoch 2/15
+8/8 - 35s - loss: 3.0637 - accuracy: 0.3310 - 35s/epoch - 4s/step
+Epoch 3/15
+8/8 - 40s - loss: 2.4701 - accuracy: 0.5201 - 40s/epoch - 5s/step
+Epoch 4/15
+8/8 - 39s - loss: 2.1711 - accuracy: 0.6160 - 39s/epoch - 5s/step
+Epoch 5/15
+8/8 - 36s - loss: 1.9191 - accuracy: 0.7118 - 36s/epoch - 4s/step
+Epoch 6/15
+8/8 - 40s - loss: 1.7154 - accuracy: 0.7414 - 40s/epoch - 5s/step
+Epoch 7/15
+8/8 - 38s - loss: 1.5793 - accuracy: 0.7630 - 38s/epoch - 5s/step
+Epoch 8/15
+8/8 - 38s - loss: 1.4451 - accuracy: 0.7751 - 38s/epoch - 5s/step
+Epoch 9/15
+8/8 - 38s - loss: 1.5774 - accuracy: 0.6757 - 38s/epoch - 5s/step
+Epoch 10/15
+8/8 - 39s - loss: 1.2938 - accuracy: 0.7482 - 39s/epoch - 5s/step
+Epoch 11/15
+8/8 - 37s - loss: 1.0724 - accuracy: 0.8632 - 37s/epoch - 5s/step
+Epoch 12/15
+8/8 - 39s - loss: 1.0934 - accuracy: 0.8162 - 39s/epoch - 5s/step
+Epoch 13/15
+8/8 - 38s - loss: 1.0151 - accuracy: 0.8553 - 38s/epoch - 5s/step
+Epoch 14/15
+8/8 - 38s - loss: 0.9356 - accuracy: 0.8319 - 38s/epoch - 5s/step
+Epoch 15/15
+8/8 - 41s - loss: 0.9371 - accuracy: 0.8216 - 41s/epoch - 5s/step
+2/2 - 3s - loss: 1.3080 - accuracy: 0.7318 - 3s/epoch - 2s/step
+labels:    [0, 0, 1, 1, 2, 2, 3, 3]
+predicted: [0, 0, 1, 1, 2, 2, 0, 3]
+Epoch 1/15
+8/8 - 42s - loss: 3.5564 - accuracy: 0.2205 - 42s/epoch - 5s/step
+Epoch 2/15
+8/8 - 33s - loss: 3.0305 - accuracy: 0.3204 - 33s/epoch - 4s/step
+Epoch 3/15
+8/8 - 31s - loss: 2.8057 - accuracy: 0.3986 - 31s/epoch - 4s/step
+Epoch 4/15
+8/8 - 34s - loss: 2.4409 - accuracy: 0.4518 - 34s/epoch - 4s/step
+Epoch 5/15
+8/8 - 30s - loss: 2.2582 - accuracy: 0.5235 - 30s/epoch - 4s/step
+Epoch 6/15
+8/8 - 33s - loss: 1.9696 - accuracy: 0.6145 - 33s/epoch - 4s/step
+Epoch 7/15
+8/8 - 34s - loss: 1.8724 - accuracy: 0.5883 - 34s/epoch - 4s/step
+Epoch 8/15
+8/8 - 33s - loss: 1.7459 - accuracy: 0.5880 - 33s/epoch - 4s/step
+Epoch 9/15
+8/8 - 36s - loss: 1.5695 - accuracy: 0.6199 - 36s/epoch - 5s/step
+Epoch 10/15
+8/8 - 33s - loss: 1.5476 - accuracy: 0.6431 - 33s/epoch - 4s/step
+Epoch 11/15
+8/8 - 31s - loss: 1.5501 - accuracy: 0.5910 - 31s/epoch - 4s/step
+Epoch 12/15
+8/8 - 31s - loss: 1.4030 - accuracy: 0.6676 - 31s/epoch - 4s/step
+Epoch 13/15
+8/8 - 34s - loss: 1.2528 - accuracy: 0.7179 - 34s/epoch - 4s/step
+Epoch 14/15
+8/8 - 33s - loss: 1.1914 - accuracy: 0.7336 - 33s/epoch - 4s/step
+Epoch 15/15
+8/8 - 32s - loss: 1.0820 - accuracy: 0.7760 - 32s/epoch - 4s/step
+WARNING:tensorflow:5 out of the last 5 calls to <function Model.make_predict_function.<locals>.predict_function at 0x0000013F81DAB550> triggered tf.function retracing. Tracing is expensive and the excessive number of tracings could be due to (1) creating @tf.function repeatedly in a loop, (2) passing tensors with different shapes, (3) passing Python objects instead of tensors. For (1), please define your @tf.function outside of the loop. For (2), @tf.function has experimental_relax_shapes=True option that relaxes argument shapes that can avoid unnecessary retracing. For (3), please refer to https://www.tensorflow.org/guide/function#controlling_retracing and https://www.tensorflow.org/api_docs/python/tf/function for  more details.
+WARNING:tensorflow:6 out of the last 6 calls to <function Model.make_predict_function.<locals>.predict_function at 0x0000013F81DAB550> triggered tf.function retracing. Tracing is expensive and the excessive number of tracings could be due to (1) creating @tf.function repeatedly in a loop, (2) passing tensors with different shapes, (3) passing Python objects instead of tensors. For (1), please define your @tf.function outside of the loop. For (2), @tf.function has experimental_relax_shapes=True option that relaxes argument shapes that can avoid unnecessary retracing. For (3), please refer to https://www.tensorflow.org/guide/function#controlling_retracing and https://www.tensorflow.org/api_docs/python/tf/function for  more details.
+2/2 - 3s - loss: 1.3959 - accuracy: 0.6490 - 3s/epoch - 2s/step
+labels:    [0, 0, 1, 1, 2, 2, 3, 3]
+predicted: [0, 0, 1, 1, 2, 2, 2, 2]
+Epoch 1/15
+8/8 - 47s - loss: 3.4153 - accuracy: 0.2466 - 47s/epoch - 6s/step
+Epoch 2/15
+8/8 - 38s - loss: 2.8956 - accuracy: 0.4376 - 38s/epoch - 5s/step
+Epoch 3/15
+8/8 - 37s - loss: 2.5418 - accuracy: 0.5934 - 37s/epoch - 5s/step
+Epoch 4/15
+8/8 - 37s - loss: 2.1830 - accuracy: 0.6900 - 37s/epoch - 5s/step
+Epoch 5/15
+8/8 - 39s - loss: 2.0050 - accuracy: 0.7003 - 39s/epoch - 5s/step
+Epoch 6/15
+8/8 - 39s - loss: 1.7171 - accuracy: 0.7898 - 39s/epoch - 5s/step
+Epoch 7/15
+8/8 - 39s - loss: 1.5975 - accuracy: 0.7759 - 39s/epoch - 5s/step
+Epoch 8/15
+8/8 - 40s - loss: 1.5522 - accuracy: 0.7780 - 40s/epoch - 5s/step
+Epoch 9/15
+8/8 - 39s - loss: 1.3995 - accuracy: 0.8327 - 39s/epoch - 5s/step
+Epoch 10/15
+8/8 - 38s - loss: 1.2898 - accuracy: 0.8277 - 38s/epoch - 5s/step
+Epoch 11/15
+8/8 - 42s - loss: 1.2375 - accuracy: 0.8169 - 42s/epoch - 5s/step
+Epoch 12/15
+8/8 - 43s - loss: 1.1013 - accuracy: 0.8425 - 43s/epoch - 5s/step
+Epoch 13/15
+8/8 - 40s - loss: 1.0016 - accuracy: 0.8877 - 40s/epoch - 5s/step
+Epoch 14/15
+8/8 - 39s - loss: 0.9885 - accuracy: 0.8788 - 39s/epoch - 5s/step
+Epoch 15/15
+8/8 - 39s - loss: 0.8926 - accuracy: 0.8917 - 39s/epoch - 5s/step
+2/2 - 3s - loss: 1.2207 - accuracy: 0.9424 - 3s/epoch - 1s/step
+labels:    [0, 0, 1, 1, 2, 2, 3, 3]
+predicted: [0, 0, 1, 1, 2, 2, 3, 3]
+Epoch 1/15
+8/8 - 49s - loss: 3.4077 - accuracy: 0.2189 - 49s/epoch - 6s/step
+Epoch 2/15
+8/8 - 37s - loss: 3.0335 - accuracy: 0.3249 - 37s/epoch - 5s/step
+Epoch 3/15
+8/8 - 41s - loss: 2.5200 - accuracy: 0.5497 - 41s/epoch - 5s/step
+Epoch 4/15
+8/8 - 39s - loss: 2.2242 - accuracy: 0.6598 - 39s/epoch - 5s/step
+Epoch 5/15
+8/8 - 41s - loss: 1.9737 - accuracy: 0.6720 - 41s/epoch - 5s/step
+Epoch 6/15
+8/8 - 39s - loss: 1.9127 - accuracy: 0.6594 - 39s/epoch - 5s/step
+Epoch 7/15
+8/8 - 38s - loss: 1.7103 - accuracy: 0.7329 - 38s/epoch - 5s/step
+Epoch 8/15
+8/8 - 38s - loss: 1.6782 - accuracy: 0.7092 - 38s/epoch - 5s/step
+Epoch 9/15
+8/8 - 39s - loss: 1.4729 - accuracy: 0.7313 - 39s/epoch - 5s/step
+Epoch 10/15
+8/8 - 38s - loss: 1.4505 - accuracy: 0.7184 - 38s/epoch - 5s/step
+Epoch 11/15
+8/8 - 38s - loss: 1.3977 - accuracy: 0.6931 - 38s/epoch - 5s/step
+Epoch 12/15
+8/8 - 41s - loss: 1.2054 - accuracy: 0.7678 - 41s/epoch - 5s/step
+Epoch 13/15
+8/8 - 38s - loss: 1.0442 - accuracy: 0.8493 - 38s/epoch - 5s/step
+Epoch 14/15
+8/8 - 40s - loss: 1.0975 - accuracy: 0.7802 - 40s/epoch - 5s/step
+Epoch 15/15
+8/8 - 41s - loss: 1.0996 - accuracy: 0.7383 - 41s/epoch - 5s/step
+WARNING:tensorflow:5 out of the last 9 calls to <function Model.make_test_function.<locals>.test_function at 0x0000013FDEFA5310> triggered tf.function retracing. Tracing is expensive and the excessive number of tracings could be due to (1) creating @tf.function repeatedly in a loop, (2) passing tensors with different shapes, (3) passing Python objects instead of tensors. For (1), please define your @tf.function outside of the loop. For (2), @tf.function has experimental_relax_shapes=True option that relaxes argument shapes that can avoid unnecessary retracing. For (3), please refer to https://www.tensorflow.org/guide/function#controlling_retracing and https://www.tensorflow.org/api_docs/python/tf/function for  more details.
+2/2 - 3s - loss: 1.4141 - accuracy: 0.7146 - 3s/epoch - 2s/step
+labels:    [0, 0, 1, 1, 2, 2, 3, 3]
+predicted: [0, 0, 1, 1, 2, 2, 3, 2]
+result for model: 2 layer 50 nodes 0.01 l2
+frame avg err: 0.2643
+frame std err: 0.1093
+file avg err:  0.175
+file std err:  0.1275
+[[10  0  0  0]
+ [ 0  9  1  0]
+ [ 0  0 10  0]
+ [ 1  0  5  4]]
+--------------------------------------------------
+--------------------------------------------------
+Epoch 1/15
+8/8 - 79s - loss: 8.5111 - accuracy: 0.2106 - 79s/epoch - 10s/step
+Epoch 2/15
+8/8 - 68s - loss: 6.5790 - accuracy: 0.5148 - 68s/epoch - 8s/step
+Epoch 3/15
+8/8 - 67s - loss: 5.2377 - accuracy: 0.6820 - 67s/epoch - 8s/step
+Epoch 4/15
+8/8 - 67s - loss: 4.0643 - accuracy: 0.8801 - 67s/epoch - 8s/step
+Epoch 5/15
+8/8 - 66s - loss: 3.5160 - accuracy: 0.7996 - 66s/epoch - 8s/step
+Epoch 6/15
+8/8 - 68s - loss: 2.9761 - accuracy: 0.8507 - 68s/epoch - 8s/step
+Epoch 7/15
+8/8 - 69s - loss: 2.5694 - accuracy: 0.8486 - 69s/epoch - 9s/step
+Epoch 8/15
+8/8 - 67s - loss: 2.2798 - accuracy: 0.8305 - 67s/epoch - 8s/step
+Epoch 9/15
+8/8 - 64s - loss: 1.9168 - accuracy: 0.9237 - 64s/epoch - 8s/step
+Epoch 10/15
+8/8 - 66s - loss: 1.9344 - accuracy: 0.7989 - 66s/epoch - 8s/step
+Epoch 11/15
+8/8 - 66s - loss: 1.6910 - accuracy: 0.8677 - 66s/epoch - 8s/step
+Epoch 12/15
+8/8 - 68s - loss: 1.4934 - accuracy: 0.9001 - 68s/epoch - 8s/step
+Epoch 13/15
+8/8 - 68s - loss: 1.3383 - accuracy: 0.9080 - 68s/epoch - 9s/step
+Epoch 14/15
+8/8 - 66s - loss: 1.5502 - accuracy: 0.8150 - 66s/epoch - 8s/step
+Epoch 15/15
+8/8 - 72s - loss: 1.2851 - accuracy: 0.8768 - 72s/epoch - 9s/step
+2/2 - 7s - loss: 1.5506 - accuracy: 0.7824 - 7s/epoch - 3s/step
+labels:    [0, 0, 1, 1, 2, 2, 3, 3]
+predicted: [0, 0, 1, 1, 2, 2, 2, 3]
+Epoch 1/15
+8/8 - 88s - loss: 8.4103 - accuracy: 0.2160 - 88s/epoch - 11s/step
+Epoch 2/15
+8/8 - 95s - loss: 6.4509 - accuracy: 0.4900 - 95s/epoch - 12s/step
+Epoch 3/15
+8/8 - 82s - loss: 5.1691 - accuracy: 0.6710 - 82s/epoch - 10s/step
+Epoch 4/15
+8/8 - 89s - loss: 4.2848 - accuracy: 0.6812 - 89s/epoch - 11s/step
+Epoch 5/15
+8/8 - 93s - loss: 3.5234 - accuracy: 0.7451 - 93s/epoch - 12s/step
+Epoch 6/15
+8/8 - 102s - loss: 2.7943 - accuracy: 0.8726 - 102s/epoch - 13s/step
+Epoch 7/15
+8/8 - 94s - loss: 2.4854 - accuracy: 0.8405 - 94s/epoch - 12s/step
+Epoch 8/15
+8/8 - 106s - loss: 2.0545 - accuracy: 0.9058 - 106s/epoch - 13s/step
+Epoch 9/15
+8/8 - 100s - loss: 1.7480 - accuracy: 0.9472 - 100s/epoch - 13s/step
+Epoch 10/15
+8/8 - 96s - loss: 1.7666 - accuracy: 0.8573 - 96s/epoch - 12s/step
+Epoch 11/15
+8/8 - 103s - loss: 1.6552 - accuracy: 0.8387 - 103s/epoch - 13s/step
+Epoch 12/15
+8/8 - 102s - loss: 1.4465 - accuracy: 0.8791 - 102s/epoch - 13s/step
+Epoch 13/15
+8/8 - 106s - loss: 1.2709 - accuracy: 0.9204 - 106s/epoch - 13s/step
+Epoch 14/15
+8/8 - 106s - loss: 1.2509 - accuracy: 0.8912 - 106s/epoch - 13s/step
+Epoch 15/15
+8/8 - 103s - loss: 1.1516 - accuracy: 0.9162 - 103s/epoch - 13s/step
+2/2 - 6s - loss: 2.2186 - accuracy: 0.2439 - 6s/epoch - 3s/step
+labels:    [0, 0, 1, 1, 2, 2, 3, 3]
+predicted: [2, 2, 2, 2, 2, 2, 2, 2]
+Epoch 1/15
+8/8 - 87s - loss: 8.3509 - accuracy: 0.2635 - 87s/epoch - 11s/step
+Epoch 2/15
+8/8 - 73s - loss: 6.7475 - accuracy: 0.4570 - 73s/epoch - 9s/step
+Epoch 3/15
+8/8 - 88s - loss: 5.0743 - accuracy: 0.7512 - 88s/epoch - 11s/step
+Epoch 4/15
+8/8 - 79s - loss: 4.3825 - accuracy: 0.7239 - 79s/epoch - 10s/step
+Epoch 5/15
+8/8 - 76s - loss: 3.6667 - accuracy: 0.7396 - 76s/epoch - 9s/step
+Epoch 6/15
+8/8 - 84s - loss: 3.0305 - accuracy: 0.8308 - 84s/epoch - 10s/step
+Epoch 7/15
+8/8 - 80s - loss: 2.5779 - accuracy: 0.8702 - 80s/epoch - 10s/step
+Epoch 8/15
+8/8 - 80s - loss: 2.2382 - accuracy: 0.8860 - 80s/epoch - 10s/step
+Epoch 9/15
+8/8 - 84s - loss: 1.9544 - accuracy: 0.9026 - 84s/epoch - 11s/step
+Epoch 10/15
+8/8 - 85s - loss: 1.8036 - accuracy: 0.8769 - 85s/epoch - 11s/step
+Epoch 11/15
+8/8 - 83s - loss: 1.6341 - accuracy: 0.9072 - 83s/epoch - 10s/step
+Epoch 12/15
+8/8 - 75s - loss: 1.5461 - accuracy: 0.8970 - 75s/epoch - 9s/step
+Epoch 13/15
+8/8 - 84s - loss: 1.5633 - accuracy: 0.8196 - 84s/epoch - 11s/step
+Epoch 14/15
+8/8 - 85s - loss: 1.3614 - accuracy: 0.8926 - 85s/epoch - 11s/step
+Epoch 15/15
+8/8 - 76s - loss: 1.3270 - accuracy: 0.8914 - 76s/epoch - 10s/step
+2/2 - 7s - loss: 1.7431 - accuracy: 0.6628 - 7s/epoch - 4s/step
+labels:    [0, 0, 1, 1, 2, 2, 3, 3]
+predicted: [0, 0, 0, 0, 2, 2, 3, 3]
+Epoch 1/15
+8/8 - 101s - loss: 8.4929 - accuracy: 0.2301 - 101s/epoch - 13s/step
+Epoch 2/15
+8/8 - 84s - loss: 6.7357 - accuracy: 0.4063 - 84s/epoch - 11s/step
+Epoch 3/15
+8/8 - 92s - loss: 5.1945 - accuracy: 0.6983 - 92s/epoch - 12s/step
+Epoch 4/15
+8/8 - 85s - loss: 4.3245 - accuracy: 0.7480 - 85s/epoch - 11s/step
+Epoch 5/15
+8/8 - 89s - loss: 3.4501 - accuracy: 0.8458 - 89s/epoch - 11s/step
+Epoch 6/15
+8/8 - 94s - loss: 2.9760 - accuracy: 0.8127 - 94s/epoch - 12s/step
+Epoch 7/15
+8/8 - 91s - loss: 2.5717 - accuracy: 0.8407 - 91s/epoch - 11s/step
+Epoch 8/15
+8/8 - 82s - loss: 2.2044 - accuracy: 0.9003 - 82s/epoch - 10s/step
+Epoch 9/15
+8/8 - 91s - loss: 1.9479 - accuracy: 0.8891 - 91s/epoch - 11s/step
+Epoch 10/15
+8/8 - 88s - loss: 1.7439 - accuracy: 0.9188 - 88s/epoch - 11s/step
+Epoch 11/15
+8/8 - 89s - loss: 1.6846 - accuracy: 0.8628 - 89s/epoch - 11s/step
+Epoch 12/15
+8/8 - 81s - loss: 1.4796 - accuracy: 0.9150 - 81s/epoch - 10s/step
+Epoch 13/15
+8/8 - 69s - loss: 1.4438 - accuracy: 0.8755 - 69s/epoch - 9s/step
+Epoch 14/15
+8/8 - 70s - loss: 1.2523 - accuracy: 0.9272 - 70s/epoch - 9s/step
+Epoch 15/15
+8/8 - 75s - loss: 1.6010 - accuracy: 0.7351 - 75s/epoch - 9s/step
+2/2 - 4s - loss: 1.6633 - accuracy: 0.8903 - 4s/epoch - 2s/step
+labels:    [0, 0, 1, 1, 2, 2, 3, 3]
+predicted: [0, 0, 1, 1, 2, 2, 3, 3]
+Epoch 1/15
+8/8 - 86s - loss: 8.4693 - accuracy: 0.2149 - 86s/epoch - 11s/step
+Epoch 2/15
+8/8 - 81s - loss: 6.7400 - accuracy: 0.3987 - 81s/epoch - 10s/step
+Epoch 3/15
+8/8 - 83s - loss: 5.1451 - accuracy: 0.6688 - 83s/epoch - 10s/step
+Epoch 4/15
+8/8 - 75s - loss: 4.2261 - accuracy: 0.7953 - 75s/epoch - 9s/step
+Epoch 5/15
+8/8 - 83s - loss: 3.5803 - accuracy: 0.7692 - 83s/epoch - 10s/step
+Epoch 6/15
+8/8 - 80s - loss: 2.9404 - accuracy: 0.8468 - 80s/epoch - 10s/step
+Epoch 7/15
+8/8 - 73s - loss: 2.5147 - accuracy: 0.8732 - 73s/epoch - 9s/step
+Epoch 8/15
+8/8 - 71s - loss: 2.1077 - accuracy: 0.9389 - 71s/epoch - 9s/step
+Epoch 9/15
+8/8 - 79s - loss: 1.8467 - accuracy: 0.9473 - 79s/epoch - 10s/step
+Epoch 10/15
+8/8 - 78s - loss: 1.7159 - accuracy: 0.9150 - 78s/epoch - 10s/step
+Epoch 11/15
+8/8 - 82s - loss: 1.5609 - accuracy: 0.9096 - 82s/epoch - 10s/step
+Epoch 12/15
+8/8 - 75s - loss: 1.4146 - accuracy: 0.9337 - 75s/epoch - 9s/step
+Epoch 13/15
+8/8 - 80s - loss: 1.3962 - accuracy: 0.8791 - 80s/epoch - 10s/step
+Epoch 14/15
+8/8 - 71s - loss: 1.4325 - accuracy: 0.8514 - 71s/epoch - 9s/step
+Epoch 15/15
+8/8 - 82s - loss: 1.2876 - accuracy: 0.8529 - 82s/epoch - 10s/step
+2/2 - 6s - loss: 1.8237 - accuracy: 0.4803 - 6s/epoch - 3s/step
+labels:    [0, 0, 1, 1, 2, 2, 3, 3]
+predicted: [0, 0, 2, 2, 2, 2, 2, 2]
+result for model: 2 layer 200 nodes 0.01 l2
+frame avg err: 0.3881
+frame std err: 0.2289
+file avg err:  0.325
+file std err:  0.2693
+[[ 8  0  2  0]
+ [ 2  4  4  0]
+ [ 0  0 10  0]
+ [ 0  0  5  5]]
+--------------------------------------------------
+>>> 
